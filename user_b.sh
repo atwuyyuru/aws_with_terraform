@@ -13,7 +13,7 @@ cat <<EOF > /var/www/html/index.html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
+  <title>Welcome</title>
   <style>
     /* Add animation and styling for the text */
     @keyframes colorChange {
@@ -27,7 +27,7 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server 1</h1>
+  <h1>Terraform Project Server 2</h1>
   <p>Welcome to Banzai</p>
   
 </body>
